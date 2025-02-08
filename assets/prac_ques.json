@@ -1,0 +1,85 @@
+{
+    "hr": [
+      {
+        "ques": "Tell me about yourself.",
+        "freq": 90
+      },
+      {
+        "ques": "What are your strengths and weaknesses?",
+        "freq": 85
+      },
+      {
+        "ques": "Why do you want to work at our company?",
+        "freq": 80
+      },
+      {
+        "ques": "Where do you see yourself in 5 years?",
+        "freq": 75
+      },
+      {
+        "ques": "Why should we hire you?",
+        "freq": 70
+      },
+      {
+        "ques": "Can you describe a challenging situation and how you handled it?",
+        "freq": 65
+      },
+      {
+        "ques": "What do you know about our company?",
+        "freq": 60
+      },
+      {
+        "ques": "What motivates you?",
+        "freq": 55
+      },
+      {
+        "ques": "How do you handle stress and pressure?",
+        "freq": 50
+      },
+      {
+        "ques": "Do you have any quess for us?",
+        "freq": 95
+      },
+      {
+        "ques": "Can you tell me about a time you demonstrated leadership skills?",
+        "freq": 70
+      },
+      {
+        "ques": "What is your greatest professional achievement?",
+        "freq": 65
+      },
+      {
+        "ques": "How do you prioritize your tasks when working on multiple projects?",
+        "freq": 60
+      },
+      {
+        "ques": "Describe a time you failed and how you handled it.",
+        "freq": 50
+      },
+      {
+        "ques": "What kind of work environment do you prefer?",
+        "freq": 55
+      },
+      {
+        "ques": "How do you handle feedback or criticism?",
+        "freq": 60
+      },
+      {
+        "ques": "What are your salary expectations?",
+        "freq": 75
+      },
+      {
+        "ques": "Can you explain any gaps in your employment history?",
+        "freq": 50
+      },
+      {
+        "ques": "What do you do to maintain work-life balance?",
+        "freq": 45
+      },
+      {
+        "ques": "Have you ever had a conflict with a coworker? How did you resolve it?",
+        "freq": 65
+      }
+    ]
+  }
+  
